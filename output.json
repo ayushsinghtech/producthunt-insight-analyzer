@@ -1,0 +1,259 @@
+[
+  {
+    "name": "Startup Stash",
+    "tagline": "A curated directory of 400 resources & tools for startups",
+    "votes": 9321,
+    "comments": 321,
+    "tags": [
+      "Web App",
+      "Tech",
+      "Startup Lessons"
+    ]
+  },
+  {
+    "name": "Wordware",
+    "tagline": "Your tool for building AI agents with natural language",
+    "votes": 7841,
+    "comments": 136,
+    "tags": [
+      "Software Engineering",
+      "Developer Tools",
+      "Artificial Intelligence"
+    ]
+  },
+  {
+    "name": "Slack",
+    "tagline": "Be less busy. Real-time messaging, archiving & search.",
+    "votes": 7339,
+    "comments": 300,
+    "tags": [
+      "Android",
+      "iOS",
+      "Mac",
+      "Web App",
+      "Productivity",
+      "Messaging",
+      "API",
+      "Developer Tools",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Startup Pitch Decks",
+    "tagline": "Real decks from real startups that raised over $400M",
+    "votes": 5648,
+    "comments": 153,
+    "tags": [
+      "Web App",
+      "Productivity",
+      "Marketing",
+      "Venture Capital",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Pexels 2.0",
+    "tagline": "The best free stock photos in one place",
+    "votes": 4669,
+    "comments": 122,
+    "tags": [
+      "Web App",
+      "Design Tools",
+      "Photography",
+      "Tech"
+    ]
+  },
+  {
+    "name": "remove.bg",
+    "tagline": "Remove the background of any image 100% automatically",
+    "votes": 4506,
+    "comments": 428,
+    "tags": [
+      "Design Tools",
+      "Productivity",
+      "Photography"
+    ]
+  },
+  {
+    "name": "Notion 2.0",
+    "tagline": "The all-in-one workspace - notes, tasks, wikis, & databases",
+    "votes": 4505,
+    "comments": 315,
+    "tags": [
+      "Productivity",
+      "Notes",
+      "Spreadsheets",
+      "Notion"
+    ]
+  },
+  {
+    "name": "Good Email Copy",
+    "tagline": "Email copy from great companies.",
+    "votes": 4140,
+    "comments": 114,
+    "tags": [
+      "Web App",
+      "Email",
+      "Writing",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Coolors",
+    "tagline": "Super fast color schemes generator for cool designers",
+    "votes": 3948,
+    "comments": 123,
+    "tags": [
+      "iOS",
+      "Web App",
+      "Design Tools",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Hunter",
+    "tagline": "Find all the email addresses related to a domain",
+    "votes": 3871,
+    "comments": 183,
+    "tags": [
+      "Web App",
+      "Email",
+      "Hiring",
+      "Sales",
+      "Email Marketing",
+      "Marketing",
+      "Growth Hacking",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Unsplash 5.0",
+    "tagline": "Free (do whatever you want) high-resolution photos.",
+    "votes": 3599,
+    "comments": 118,
+    "tags": [
+      "Web App",
+      "Design Tools",
+      "Photography",
+      "Developer Tools",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Hotjar",
+    "tagline": "See how visitors are using your site and get visual feedback",
+    "votes": 3480,
+    "comments": 153,
+    "tags": [
+      "Web App",
+      "Analytics",
+      "SaaS",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Coda",
+    "tagline": "It's a new day for docs",
+    "votes": 3428,
+    "comments": 170,
+    "tags": [
+      "Productivity",
+      "Spreadsheets",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Amazon Go",
+    "tagline": "Amazon stores with no lines or checkout 🛍",
+    "votes": 3379,
+    "comments": 160,
+    "tags": [
+      "Internet of Things",
+      "Artificial Intelligence",
+      "E-Commerce",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Station",
+    "tagline": "One app to rule them all",
+    "votes": 3379,
+    "comments": 595,
+    "tags": [
+      "Windows",
+      "Mac",
+      "Productivity",
+      "User Experience",
+      "SaaS",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Carrd",
+    "tagline": "Simple, responsive, one-page sites for pretty much anything.",
+    "votes": 3355,
+    "comments": 292,
+    "tags": [
+      "Web App",
+      "Design Tools",
+      "Branding",
+      "Marketing",
+      "Tech"
+    ]
+  },
+  {
+    "name": "AutoDraw",
+    "tagline": "Autocorrect for drawing, by Google",
+    "votes": 3240,
+    "comments": 136,
+    "tags": [
+      "Web App",
+      "Art",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  },
+  {
+    "name": "f.lux",
+    "tagline": "Adjusts your computer's display to adapt to the time of day",
+    "votes": 3224,
+    "comments": 106,
+    "tags": [
+      "Linux",
+      "Windows",
+      "Mac",
+      "Health & Fitness",
+      "Menu Bar Apps",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Bubble",
+    "tagline": "Build a fully functional web app without any code",
+    "votes": 3153,
+    "comments": 148,
+    "tags": [
+      "Web App",
+      "Design Tools",
+      "Productivity",
+      "SaaS",
+      "Software Engineering",
+      "Developer Tools",
+      "Tech"
+    ]
+  },
+  {
+    "name": "Prisma",
+    "tagline": "AI that turns your photos into artwork in seconds",
+    "votes": 3152,
+    "comments": 293,
+    "tags": [
+      "Android",
+      "iOS",
+      "Art",
+      "Photography",
+      "Artificial Intelligence",
+      "Tech"
+    ]
+  }
+]
