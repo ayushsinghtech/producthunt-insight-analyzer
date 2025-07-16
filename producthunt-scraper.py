@@ -1,14 +1,23 @@
+from dotenv import load_dotenv
+load_dotenv()
 import requests
 import json
+import os
+import sys
 
-# Constants
+# Load API token from environment variable
 API_URL = "https://api.producthunt.com/v2/api/graphql"
+TOKEN = os.getenv("PRODUCTHUNT_API_TOKEN")
+
+if not TOKEN:
+    print("Error: Set environment variable PRODUCTHUNT_API_TOKEN with your Product Hunt API token.")
+    sys.exit(1)
+
 HEADERS = {
-    "Authorization": "Bearer PFakEv2pVdb_KH4p_9oY_WvwVBMQycHT0adukfWLuio",  # Replace with your token if needed
+    "Authorization": f"Bearer {TOKEN}",
     "Content-Type": "application/json"
 }
 
-# GraphQL query to fetch top trending posts by votes (no date filter)
 query = """
 {
   posts(order: VOTES) {
