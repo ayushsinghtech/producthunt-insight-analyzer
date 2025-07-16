@@ -31,20 +31,24 @@ This tool helps analyze what kind of products perform well and resonate on Produ
 ```bash
 git clone https://github.com/your-username/producthunt-insight-analyzer.git
 cd producthunt-insight-analyzer
+```
 
 2. Install Dependencies
-bash
+
+```bash
 pip install -r requirements.txt
 Make sure Python 3.7+ is installed.
-
+```
 3. Set Up Environment Variable
+
 Create a .env file in the root directory with this content:
 PRODUCTHUNT_API_TOKEN=your_access_token_here
 
 4. Run the Scraper
-bash
-python producthunt_scraper.py
 
+```bash
+python producthunt_scraper.py
+```
 This will:
 Print the scraped data in the console
 
