@@ -55,6 +55,7 @@ Print the scraped data in the console
 Save the results to output.json
 
 ### Sample Output Format
+```bash
 json
 {
   "name": "Startup Stash",
@@ -63,6 +64,7 @@ json
   "comments": 321,
   "tags": ["Web App", "Tech", "Startup Lessons"]
 }
+```
 
 ### Notes
 API Token: Get yours from Product Hunt Developer Portal
