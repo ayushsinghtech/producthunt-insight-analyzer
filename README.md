@@ -33,18 +33,18 @@ git clone https://github.com/your-username/producthunt-insight-analyzer.git
 cd producthunt-insight-analyzer
 ```
 
-2. Install Dependencies
+### 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 Make sure Python 3.7+ is installed.
 ```
-3. Set Up Environment Variable
+### 3. Set Up Environment Variable
 
 Create a .env file in the root directory with this content:
 PRODUCTHUNT_API_TOKEN=your_access_token_here
 
-4. Run the Scraper
+### 4. Run the Scraper
 
 ```bash
 python producthunt_scraper.py
@@ -54,7 +54,7 @@ Print the scraped data in the console
 
 Save the results to output.json
 
-Sample Output Format
+### Sample Output Format
 json
 {
   "name": "Startup Stash",
@@ -64,12 +64,12 @@ json
   "tags": ["Web App", "Tech", "Startup Lessons"]
 }
 
-Notes
+### Notes
 API Token: Get yours from Product Hunt Developer Portal
 Rate Limiting: Be cautious of API rate limits when making multiple requests.
 
-License
+### License
 MIT License
 
-Acknowledgements
+### Acknowledgements
 Thanks to Product Hunt for the API access and inspiration.
